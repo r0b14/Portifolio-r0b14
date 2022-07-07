@@ -1,0 +1,31 @@
+Extensões VSCode
+
+Organização - São as extensões que ajudam a organizar/identar o código
+1. [Deprecated] Bracket Pair Colorizer 2 - Ajuda no controle de parenteses, colchetes e chave
+2. Better C++ Syntax - Organiza códigos em C/C++
+3. Doxygen Documentation Generator - Ajuda quando estamos comentando código
+4. Prettier - Code formatter - Formata Códigos JS, HTML e CSS
+5. Auto Rename Tag - Formata Códigos HTML.
+
+Estilos - Temas e icones
+1. vscode-icons - Uso esse porque não fico procurando outros, mas a maioria é a mesma coisa.
+2. Dracula Official - Tema mais usado, atualmente uso ele.
+3. Eva Theme - Também gosto muito desse tema.
+4. One Dark Pro - Esse tema é mt bom. as cores são bem leves
+
+Produtividade - Ajuda na escrita do código
+1. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more - Ajuda a auto completar o código baseado no seu projeto. ele aprende com aquilo que você escreve
+2. SynthWave '84 - Ajuda também na escrita do código. gosto bastante desse.
+3. CMake - A mesma coisa dos outros.
+4. IntelliCode - a mesma coisa dos outros.
+
+Rodar/compilcar C/C++
+1. C/C++
+2. C/C++ Compile Run
+3. C/C++ Extension Pack
+4. C/C++ Extension UI Themes
+
+Extras - é mais coisas pessoais kk
+1. Bookmarks - seleciona partes do codigo que vc deseja sempre ficar visitando
+2. GitLens - ajuda a usar git e github junto ao codigo
+3. Live Server - levanta um servidor local rapidinho. bom usar com HTML.
