@@ -19,3 +19,6 @@ Quando aluno da Uninassau, tive a oportunidade de ser integrante da Liga de Rob�
 ### Volutários:
 
 Diante do momento de pandemia e da situação caótica que o mundo estava passando, o uso da internet com o foco nas transmissões (live), foi uma ótima oportunidade para romper as barreiras físicas. Uma grande oportunidade surgia, a oportunidade de fazer live mesmo com pouco recurso. Assumir o posto de Gerente de media social da Igreja Evangélica Nova Jerusalém, desenvolvendo e coordenando projetos de transmissões ao vivo nas principais redes socias. Totalmente volutário, mas muito prazeroso e muito aprendizado.
+
+Link de gerador de portifólio git
+https://rahuldkjain.github.io/gh-profile-readme-generator/
