@@ -32,3 +32,7 @@ SES - Secretaria de Saúde do Estado de Pernambuco.
 - Em contato direto com os usuários, via telefonia, desempenho o papel de fazer aberturas de chamados, verificações de SLA, verificação de grupo executor e atividades relacionadas as dores dos usuários baseada no catálogo de atendimento.
 - Aplicações práticas dos conceitos do framework de gerenciamento de serviços, o Information Technology Infrastructure Library (ITIL).
 - Atuando no portal CESU diretamente com fornecedores, clientes e equipes internas. Encaminhando chamados/requisições, verificações de SLA, correção de informações, validações de script e correção de dados. 
+
+### Recomentação Carlos - Datamétrica
+
+Trabalhei com o Carlos no Consórcio DPZ, na Datametrica. Ele foi o meu amigo de trabalho, no qual sempre recorria para resolver problemas bem complexos ou quando necessitava de algumas instruções. Carlos é uma das pessoas bem empenhada, focado, atensioso, sempre prestativa com todos na operação e tem um grande conhecimento técnico-específico. Além disso, sempre demonstrou uma boa atenção e sempre disposto a compartilhar informações sobre as atividades de trabalho. O Carlos foi um ótimo amigo de trabalho, foi quem me norteou em muitas atividades e diretrizes na empresa.
